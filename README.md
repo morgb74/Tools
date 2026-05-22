@@ -10,7 +10,6 @@ Tools/
 │   └── Module Docs
 ├── src/
 │   └── forexfactory_crawler.py
-├── src/
 │   └── python_rename.py
 ├── test/
 │   └── Readme.md
