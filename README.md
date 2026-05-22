@@ -7,9 +7,11 @@ This repository contains a collection of custom and miscellaneous Python tools, 
 ```text
 Tools/
 ├── docs/
-│   └── Overview.md
+│   └── Module Docs
 ├── src/
 │   └── forexfactory_crawler.py
+├── src/
+│   └── python_rename.py
 ├── test/
 │   └── Readme.md
 └── README.md
